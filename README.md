@@ -1,1 +1,1 @@
-# repro-mini-01
+Repro-first mini-project: pinned environment + CI + tagged release.
